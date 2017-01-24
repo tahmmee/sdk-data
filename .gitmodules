@@ -1,3 +1,0 @@
-[submodule "java-dcp-client"]
-	path = java-dcp-client
-	url = https://github.com/couchbaselabs/java-dcp-client
